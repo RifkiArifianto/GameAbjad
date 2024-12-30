@@ -1,0 +1,1478 @@
+fileFormatVersion: 2
+guid: dbecbcd57fe22564ba9de2d593e1d78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Font CM 2-01_0
+  - first:
+      213: 21300002
+    second: Font CM 2-01_1
+  - first:
+      213: 21300004
+    second: Font CM 2-01_2
+  - first:
+      213: 21300006
+    second: Font CM 2-01_3
+  - first:
+      213: 21300008
+    second: Font CM 2-01_4
+  - first:
+      213: 21300010
+    second: Font CM 2-01_5
+  - first:
+      213: 21300012
+    second: Font CM 2-01_6
+  - first:
+      213: 21300014
+    second: Font CM 2-01_7
+  - first:
+      213: 21300016
+    second: Font CM 2-01_8
+  - first:
+      213: 21300018
+    second: Font CM 2-01_9
+  - first:
+      213: 21300020
+    second: Font CM 2-01_10
+  - first:
+      213: 21300022
+    second: Font CM 2-01_11
+  - first:
+      213: 21300024
+    second: Font CM 2-01_12
+  - first:
+      213: 21300026
+    second: Font CM 2-01_13
+  - first:
+      213: 21300028
+    second: Font CM 2-01_14
+  - first:
+      213: 21300030
+    second: Font CM 2-01_15
+  - first:
+      213: 21300032
+    second: Font CM 2-01_16
+  - first:
+      213: 21300034
+    second: Font CM 2-01_17
+  - first:
+      213: 21300036
+    second: Font CM 2-01_18
+  - first:
+      213: 21300038
+    second: Font CM 2-01_19
+  - first:
+      213: 21300040
+    second: Font CM 2-01_20
+  - first:
+      213: 21300042
+    second: Font CM 2-01_21
+  - first:
+      213: 21300044
+    second: Font CM 2-01_22
+  - first:
+      213: 21300046
+    second: Font CM 2-01_23
+  - first:
+      213: 21300048
+    second: Font CM 2-01_24
+  - first:
+      213: 21300050
+    second: Font CM 2-01_25
+  - first:
+      213: 21300052
+    second: Font CM 2-01_26
+  - first:
+      213: 21300054
+    second: Font CM 2-01_27
+  - first:
+      213: 21300056
+    second: Font CM 2-01_28
+  - first:
+      213: 21300058
+    second: Font CM 2-01_29
+  - first:
+      213: 21300060
+    second: Font CM 2-01_30
+  - first:
+      213: 21300062
+    second: Font CM 2-01_31
+  - first:
+      213: 21300064
+    second: Font CM 2-01_32
+  - first:
+      213: 21300066
+    second: Font CM 2-01_33
+  - first:
+      213: 21300068
+    second: Font CM 2-01_34
+  - first:
+      213: 21300070
+    second: Font CM 2-01_35
+  - first:
+      213: 21300072
+    second: Font CM 2-01_36
+  - first:
+      213: 21300074
+    second: Font CM 2-01_37
+  - first:
+      213: 21300076
+    second: Font CM 2-01_38
+  - first:
+      213: 21300078
+    second: Font CM 2-01_39
+  - first:
+      213: 21300080
+    second: Font CM 2-01_40
+  - first:
+      213: 21300082
+    second: Font CM 2-01_41
+  - first:
+      213: 21300084
+    second: Font CM 2-01_42
+  - first:
+      213: 21300086
+    second: Font CM 2-01_43
+  - first:
+      213: 21300088
+    second: Font CM 2-01_44
+  - first:
+      213: 21300090
+    second: Font CM 2-01_45
+  - first:
+      213: 21300092
+    second: Font CM 2-01_46
+  - first:
+      213: 21300094
+    second: Font CM 2-01_47
+  - first:
+      213: 21300096
+    second: Font CM 2-01_48
+  - first:
+      213: 21300098
+    second: Font CM 2-01_49
+  - first:
+      213: 21300100
+    second: Font CM 2-01_50
+  - first:
+      213: 21300102
+    second: Font CM 2-01_51
+  - first:
+      213: 21300104
+    second: Font CM 2-01_52
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Font CM 2-01_0
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 737
+        width: 111
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682e99da16114c43a60e951272104a3
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2621
+        width: 195
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f336d8db617ec614e8ad1b65c8e227ec
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2621
+        width: 276
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3e361310fdc943bcd57a7727b56b4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2621
+        width: 269
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba24e2b57578e43a5da00e749a7f2c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_4
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2621
+        width: 276
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68f0168ccaa4ed44ac5379bf51719c7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_5
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2621
+        width: 191
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5557abe29161db42b15cc9a03978fe0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_6
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2614
+        width: 254
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ede6ea740b0354ea9b098e83341812
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_7
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 2591
+        width: 278
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bdfd46f94f78046929ae752b864f7e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_8
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 2605
+        width: 276
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe1f43786387c4eb72a6b7ebf5d0a3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_9
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 2605
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9166aae1694577541935e0247acff20e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2333
+        width: 228
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a43ddde0a015041b6c034e1d6b5421
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_11
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2350
+        width: 260
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a204189743f7749af42cc2a525b512
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_12
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2358
+        width: 229
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943dee050a304874fbc5c7d47baf1cb8
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_13
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2334
+        width: 311
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b263994c3d6213740865dcc6ff76be1a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_14
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2335
+        width: 274
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b24de9efcd93d2468347c8472ba8869
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_15
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 2326
+        width: 195
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5e4cba83b29748ba0073ffd0f1870
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_16
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 2308
+        width: 276
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa1829740e2c2144a38491c905966d2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_17
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 2299
+        width: 229
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0db2511da63f54ab7a511a993e09a4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_18
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 2340
+        width: 252
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3e002b12dff24ea14068b22483e60
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2052
+        width: 262
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658788ef5488bd244b1b3e3ba76aaff7
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_20
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2054
+        width: 258
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2b53ffde58dc4996789cb55c24356
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_21
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2061
+        width: 187
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4819998ade438646a3b5128e6ca7a56
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_22
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2059
+        width: 272
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b6cd747afab5409cdc33856207b50
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_23
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 2061
+        width: 292
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c955f65fcbd7ab44d8a99009c6fd1cc2
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2059
+        width: 267
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be926979cc6855469ebd4b50ec121ec
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_25
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2040
+        width: 270
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d375eef29be5542b0b160b1f6215ef
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_26
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 2059
+        width: 337
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1022e185e95d540bdd9fe28551164b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1606
+        width: 336
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854cbfb4b934a449ab0b8232ccc1e74
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_28
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1606
+        width: 334
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc069f2d20013049ab62c7f95aaef2b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_29
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1606
+        width: 317
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af38b8d80571ee4ba6efbff8acd09b9
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_30
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1606
+        width: 334
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbaa8901382ff4439ca4bcb8c3c5303
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_31
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1606
+        width: 331
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce1f15503e893428cfd958d4bee2f4
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_32
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1606
+        width: 281
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b631f47c1730a624fad6df71c2d3151a
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_33
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 1576
+        width: 334
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9fee8e15abb440a97a7bb28d1e39a
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1149
+        width: 327
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c436a7e991b85e41bc88a766c04cef9
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_35
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1149
+        width: 228
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a5d86570bb294ab87c7b6e02f9721
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_36
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1112
+        width: 231
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296fc4d7a99632441acadbddb380610b
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_37
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1149
+        width: 300
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4a9744799c244c9fe959769bbb655
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_38
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1149
+        width: 228
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aadb4b7c180bf4e85e4e6b72ccfa33
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_39
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 1149
+        width: 414
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b347f5642e8504f9966b7cb7fa32ae
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_40
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1149
+        width: 329
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dbd290d2818f4478a3ca7c6a48ecf2
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_41
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 1149
+        width: 336
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e1e5d439131d43af8f187c659c1ed
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 660
+        width: 336
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd7a2c51a4bedb4a90bed0177547356
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_43
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 660
+        width: 336
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f699bc12a52294e9279ec91a57d862
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_44
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 689
+        width: 278
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82eff112dbaa494e982ef6f99137810
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_45
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 689
+        width: 302
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f84f3063a0b104f8364893eb0ea7f2
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_46
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 689
+        width: 291
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a1ea84bf527b41a2f25939d1449be
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_47
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 689
+        width: 322
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60123f5f8940ac4bbffab4ce774cd2d
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_48
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 689
+        width: 322
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08025d0da4cfc884f99cb82397fddd8b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 232
+        width: 370
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cf5371f33a53f45a4c6869992cc105
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_50
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 232
+        width: 313
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8459ed4b25fde5c4fa3db840de26a21a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_51
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 200
+        width: 322
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b5da1071e90640ba363797c3ff3d2
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font CM 2-01_52
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 232
+        width: 324
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31269aa2e3a58c468225ead0ac10fb5
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Font CM 2-01_0: 21300000
+      Font CM 2-01_1: 21300002
+      Font CM 2-01_10: 21300020
+      Font CM 2-01_11: 21300022
+      Font CM 2-01_12: 21300024
+      Font CM 2-01_13: 21300026
+      Font CM 2-01_14: 21300028
+      Font CM 2-01_15: 21300030
+      Font CM 2-01_16: 21300032
+      Font CM 2-01_17: 21300034
+      Font CM 2-01_18: 21300036
+      Font CM 2-01_19: 21300038
+      Font CM 2-01_2: 21300004
+      Font CM 2-01_20: 21300040
+      Font CM 2-01_21: 21300042
+      Font CM 2-01_22: 21300044
+      Font CM 2-01_23: 21300046
+      Font CM 2-01_24: 21300048
+      Font CM 2-01_25: 21300050
+      Font CM 2-01_26: 21300052
+      Font CM 2-01_27: 21300054
+      Font CM 2-01_28: 21300056
+      Font CM 2-01_29: 21300058
+      Font CM 2-01_3: 21300006
+      Font CM 2-01_30: 21300060
+      Font CM 2-01_31: 21300062
+      Font CM 2-01_32: 21300064
+      Font CM 2-01_33: 21300066
+      Font CM 2-01_34: 21300068
+      Font CM 2-01_35: 21300070
+      Font CM 2-01_36: 21300072
+      Font CM 2-01_37: 21300074
+      Font CM 2-01_38: 21300076
+      Font CM 2-01_39: 21300078
+      Font CM 2-01_4: 21300008
+      Font CM 2-01_40: 21300080
+      Font CM 2-01_41: 21300082
+      Font CM 2-01_42: 21300084
+      Font CM 2-01_43: 21300086
+      Font CM 2-01_44: 21300088
+      Font CM 2-01_45: 21300090
+      Font CM 2-01_46: 21300092
+      Font CM 2-01_47: 21300094
+      Font CM 2-01_48: 21300096
+      Font CM 2-01_49: 21300098
+      Font CM 2-01_5: 21300010
+      Font CM 2-01_50: 21300100
+      Font CM 2-01_51: 21300102
+      Font CM 2-01_52: 21300104
+      Font CM 2-01_6: 21300012
+      Font CM 2-01_7: 21300014
+      Font CM 2-01_8: 21300016
+      Font CM 2-01_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/main.unity
+    guid: d584c93e3c881c744ab32be86186c473
+  - enabled: 1
+    path: Assets/scene/game.unity
+    guid: 8f86ea5fa1e1cda4a96425d79b633a32
+  - enabled: 1
+    path: Assets/scene/scene A.unity
+    guid: 354e3aa42b4ab024bb90815b2bdf601a
+  - enabled: 1
+    path: Assets/scene/scene B.unity
+    guid: 37da66b4eae661c43869444c42a35c5c
+  - enabled: 1
+    path: Assets/scene/scene C.unity
+    guid: 6ff324cce1bde1f45a2f3f8325460f68
+  - enabled: 1
+    path: Assets/scene/scene D.unity
+    guid: b2980a8c4d7bb5a4ba8dd5eb8f71a20d
+  - enabled: 1
+    path: Assets/scene/scene E.unity
+    guid: b4a438a67b488f348bf62586a55935bb
+  - enabled: 1
+    path: Assets/scene/scene F.unity
+    guid: 956b9dc62e3942643946815a3b29b6a9
+  - enabled: 1
+    path: Assets/scene/scene G.unity
+    guid: 754490693a9a5324f9f1604beee75122
+  - enabled: 1
+    path: Assets/scene/scene H.unity
+    guid: eb50c298347f64a448b7a11093e4c26f
+  - enabled: 1
+    path: Assets/scene/scene I.unity
+    guid: 45b2d8bac55b674498fc583169c61286
+  - enabled: 1
+    path: Assets/scene/scene J.unity
+    guid: 392e1113b9b1ecc44a75feafe811a00d
+  - enabled: 1
+    path: Assets/scene/scene K.unity
+    guid: 3ed36de1de71530408478621c1a81255
+  - enabled: 1
+    path: Assets/scene/scene L.unity
+    guid: d29518d910871db4b99ac5da80b00341
+  - enabled: 1
+    path: Assets/scene/scene M.unity
+    guid: ba9aba0707ca30a44847211194fe0043
+  - enabled: 1
+    path: Assets/scene/scene N.unity
+    guid: 3af7eb65999a6874ba69df7817785c3b
+  - enabled: 1
+    path: Assets/scene/scene O.unity
+    guid: d61c699ec8a665f46a60926ea0a258d1
+  - enabled: 1
+    path: Assets/scene/scene P.unity
+    guid: 56f91adea7e36fe4db61c2c09afa81e9
+  - enabled: 1
+    path: Assets/scene/scene Q.unity
+    guid: 7fee5ab3f37d5314198322743a2d2212
+  - enabled: 1
+    path: Assets/scene/scene R.unity
+    guid: fec097ce215a67e45b582e4af641c988
+  - enabled: 1
+    path: Assets/scene/scene S.unity
+    guid: 10eb81b274fcfcb40bd3570b4be9e7ad
+  - enabled: 1
+    path: Assets/scene/scene T.unity
+    guid: 84169536a371009439ccab209de48769
+  - enabled: 1
+    path: Assets/scene/scene U.unity
+    guid: 5d24fd6a99b7e8c439c13b3b6f4e9d6b
+  - enabled: 1
+    path: Assets/scene/scene V.unity
+    guid: 83554c0806247ac42a2cdf23aa818100
+  - enabled: 1
+    path: Assets/scene/scene W.unity
+    guid: 76d8eb8ec9125d547b5d421dbd52e2b5
+  - enabled: 1
+    path: Assets/scene/scene X.unity
+    guid: 85bb44b3a036d8d43b70e9b8ecdfd6f7
+  - enabled: 1
+    path: Assets/scene/scene Y.unity
+    guid: a741c95d6c9d69f4caa3c97e12ab6a4d
+  - enabled: 1
+    path: Assets/scene/scene Z.unity
+    guid: 77d7f30c3be4a2e44b421c8bcf7e0cfb
+  m_configObjects: {}
